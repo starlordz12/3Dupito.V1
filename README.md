@@ -1,3 +1,4 @@
 # 3Dupito.V1
 a new interface and build guide
 https://starlordz12.github.io/3Dupito.V1/
+A custom progressive web app built to organize, document, and manage the full build of the 3DUpito — a MantaDynamics Manta V1 reverse-swept flying wing, printed in Bambu Labs PLA-CF Red on a Bambu Labs A1. Designed as a field-ready iPhone home screen app with full offline support, the 3DUpito app goes beyond a simple build guide. It serves as a complete parts organizer, wiring reference, electronics specification sheet, radio channel assignment guide, AS3X + SAFE configuration reference for the Spektrum AR631T+, flight tuning dashboard, and interactive pre-flight checklist. Power system built around the AOS Supernova 2807 1400KV motor, Spektrum Avian 45A ESC, 6S LiPo, and DAL Cyclone T5040C tri-blade props. Designed to live on your phone at the flying field — not in a drawer.
